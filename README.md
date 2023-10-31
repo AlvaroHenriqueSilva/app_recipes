@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NativeWind - (estilos)
 
 ## 💻 Projeto
-  Este projeto foi desenvolvido com base em uma api de receitas. Nessa aplicativo o usuário pode pesquisar por uma receita específica ou por categoria, após a pesquisa ele consegue visualizar de forma descritiva 
+  Este projeto foi desenvolvido com base em uma api de receitas. Nesse aplicativo o usuário pode pesquisar por uma receita específica ou por categoria, após a pesquisa ele consegue visualizar de forma descritiva 
 passo a passo de como fazer essa receita.
 
   ## 🖼️ Imagens
