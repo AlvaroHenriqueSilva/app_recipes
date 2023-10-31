@@ -18,6 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
 - React Native
+- NativeWind - (estilos)
 
 ## 💻 Projeto
   Este projeto foi desenvolvido com base em uma api de receitas. Nessa aplicativo o usuário pode pesquisar por uma receita específica ou por categoria, após a pesquisa ele consegue visualizar de forma descritiva 
